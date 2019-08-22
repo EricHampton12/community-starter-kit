@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* This is the Mona description 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* This features Mona
 
 ## Getting started
 
