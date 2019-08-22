@@ -1,3 +1,9 @@
-# This is the bug reporting file for this repository
+ _Use this template if you have questions about any bugs or issues. 
 
-Report any bugs below:
+# Your question
+
+_Briefly describe your question here. What issues or bugs did you find?_
+
+## I've already tried
+
+_What strategies or changes have you tried in efforts to fix any issues? 
