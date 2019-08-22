@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### For all new users, all the information and instructions above will help you tremondously. Follow directions carefully, and do not rush! 
 
-Thank you for suvmitting a pul request to the repository.If you are reporting a bug or feature request, please make sure to assign a label to this issue.
+Thank you for submitting a pull request to the repository.If you are reporting a bug or feature request, please make sure to assign a label to this issue.
