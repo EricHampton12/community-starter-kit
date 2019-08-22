@@ -33,6 +33,6 @@ firstPRMergeComment: >
 # It is recommended to include as many gifs and emojis as possible!
 ```
 
-### Example Messages
+### For all new users, all the information and instructions above will help you tremondously. Follow directions carefully, and do not rush! 
 
 CONFIGS PLACEHOLDER
